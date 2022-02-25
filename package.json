@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "jest": "^27.5.1",
+    "node": "^17.4.0"
+  },
+  "name": "teamhub-generator",
+  "description": "",
+  "version": "1.0.0",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/garretthilberling/teamhub-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/garretthilberling/teamhub-generator/issues"
+  },
+  "homepage": "https://github.com/garretthilberling/teamhub-generator#readme"
+}
