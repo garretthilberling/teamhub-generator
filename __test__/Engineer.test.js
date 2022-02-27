@@ -5,6 +5,5 @@ test('creates a manager object', () => {
 
     expect(engineer.name).toBe('Rick');
     expect(engineer.id.length).toEqual(7);
-    expect(engineer.getRandom()).toEqual(expect.any(Number));
     expect(engineer.githubName).toEqual(expect.any(String));
 });
