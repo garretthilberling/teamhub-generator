@@ -1,3 +1,3 @@
 const Form = require('./lib/Form');
 
-new Form().initializeForm();
+new Form().teamInit();
