@@ -1,1 +1,26 @@
 # teamhub-generator
+
+## Table of Contents
+* [Description](#Description)
+* [Installation](#Installation)
+* [Usage](#Usage)
+* [Questions](#Questions)
+* [Credits](#Credits)
+
+## Description
+TH-G is an application designed to help clients generate an HTML displaying contact and identification information for the project manager (PM), engineers (devs), and interns for a given project. The languages used to build this application are JavaScript, ES6, Node.js, Inquirer, TDD, & OOP. 
+
+## Usage
+Here is a video demonstration of how to use this app:
+
+[![video demonstration](./assets/img/application-screenshot.png)](https://drive.google.com/file/d/1xFHZTeXDYdhLvebp4uuoaBBIknKDNUm-/view?usp=sharing)
+
+## Installation
+To use this application the user will need to clone this repository to their machine. 
+
+## Questions
+If you have any questions about this project, please contact me via my GitHub: https://github.com/garretthilberling
+
+## Credits
+This project was created solely by Garrett Hilberling: https://www.linkedin.com/in/garretthilberling/
+    
