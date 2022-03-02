@@ -16,7 +16,7 @@ Here is a video demonstration of how to use this app:
 [![video demonstration](./assets/img/application-screenshot.png)](https://drive.google.com/file/d/1xFHZTeXDYdhLvebp4uuoaBBIknKDNUm-/view?usp=sharing)
 
 ## Installation
-To use this application the user will need to clone this repository to their machine. 
+To use this application the user will need to clone this repository to their machine. For an example of an HTML output see the following link: https://garretthilberling.github.io/teamhub-generator/
 
 ## Questions
 If you have any questions about this project, please contact me via my GitHub: https://github.com/garretthilberling
