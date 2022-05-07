@@ -8,7 +8,7 @@
 * [Credits](#Credits)
 
 ## Description
-TH-G is an application designed to help clients generate an HTML displaying contact and identification information for the project manager (PM), engineers (devs), and interns for a given project. The languages used to build this application are JavaScript, ES6, Node.js, Inquirer, TDD, & OOP. 
+TH-G is an application designed to help clients generate an HTML output displaying inputted contact and identification information for the project manager (PM), engineers (devs), and interns for a given project. The languages used to build this application are JavaScript, ES6, Node.js, Inquirer, TDD, & OOP. 
 
 ## Usage
 Here is a video demonstration of how to use this app:
