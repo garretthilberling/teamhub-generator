@@ -13,11 +13,12 @@ TH-G is a Node.js application designed to help clients generate an HTML output d
 ## Usage
 Here is a video demonstration of how to use this app:
 
-[
 <p align="center">
-    <img src="./assets/img/gif-demonstration.gif" width="700" />
+    <a href="https://drive.google.com/file/d/1xFHZTeXDYdhLvebp4uuoaBBIknKDNUm-/view?usp=sharing">
+        <img src="./assets/img/gif-demonstration.gif" width="700" />
+    </a>
 </p>
-](https://drive.google.com/file/d/1xFHZTeXDYdhLvebp4uuoaBBIknKDNUm-/view?usp=sharing)
+
 
 ## Installation
 To use this application the user will need to clone this repository to their machine. For an example of an HTML output see the following link: https://garretthilberling.github.io/teamhub-generator/
