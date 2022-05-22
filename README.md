@@ -13,11 +13,13 @@ TH-G is a Node.js application designed to help clients generate an HTML output d
 ## Usage
 Here is a video demonstration of how to use this app:
 
-<p align="center">
-    <a href="https://drive.google.com/file/d/1xFHZTeXDYdhLvebp4uuoaBBIknKDNUm-/view?usp=sharing">
-        <img src="./assets/img/gif-demonstration.gif" width="700" />
-    </a>
-</p>
+<div align="center">
+        <img alt="gif demonstration" src="./assets/img/gif-demonstration.gif" width="700" />
+        <br></br>
+        <div>For the full video including audio follow <a href="https://drive.google.com/file/d/1xFHZTeXDYdhLvebp4uuoaBBIknKDNUm-/view?usp=sharing">
+            this link
+        </a></div>
+</div>
 
 
 ## Installation
